@@ -5,7 +5,7 @@
 class rawData {
 
   String[] notes1 = {"C4", "E4", "G4", "C5", "E5", "G4", "C5", "E5", "C4", "E4", "G4", "C5", "E5", "G4", "C5", "E5", "C4", "D4", "A4", "D5", "F5", "A4", "D5", "F5", "C4", "D4", "A4", "D5", "F5", "A4", "D5", "F5", "B3", "D4", "G4", "D5", "F5", "G4", "D5", "F5", "B3", "D4", "G4", "D5", "F5", "G4", "D5", "F5", "C4", "E4", "G4", "C5", "E5", "G4", "C5", "E5", "C4", "E4", "G4", "C5", "E5", "G4", "C5", "E5", "C4", "E4", "A4", "E5", "A5", "A4", "E5", "A5", "C4", "E4", "A4", "E5", "A5", "A4", "E5", "A5", "C4", "D4", "F#4", "A4", "D5", "F#4", "A4", "D5", "C4", "D4", "F#4", "A4", "D5", "F#4", "A4", "D5", "B3", "D4", "G4", "D5", "G5", "G4", "D5", "G5", "B3", "D4", "G4", "D5", "G5", "G4", "D5", "G5", "B3", "C4", "E4", "G4", "C5", "E4", "G4", "C5", "B3", "C4", "E4", "G4", "C5", "E4", "G4", "C5", "A3", "C4", "E4", "G4", "C5", "E4", "G4", "C5", "A3", "C4", "E4", "G4", "C5", "E4", "G4", "C5", "D3", "A3", "D4", "F#4", "C5", "D4", "F#4", "C5", "D3", "A3", "D4", "F#4", "C5", "D4", "F#4", "C5", "G3", "B3", "D4", "G4", "B4", "D4", "G4", "B4", "G3", "B3", "D4", "G4", "B4", "D4", "G4", "B4", "G3", "A#3", "E4", "G4", "C#5", "E4", "G4", "C#5", "G3", "A#3", "E4", "G4", "C#5", "E4", "G4", "C#5", "F3", "A3", "D4", "A4", "D5", "D4", "A4", "D5", "F3", "A3", "D4", "A4", "D5", "D4", "A4", "D5", "F3", "G#3", "D4", "F4", "B4", "D4", "F4", "B4", "F3", "G#3", "D4", "F4", "B4", "D4", "F4", "B4", "E3", "G3", "C4", "G4", "C5", "C4", "G4", "C5", "E3", "G3", "C4", "G4", "C5", "C4", "G4", "C5", "E3", "F3", "A3", "C4", "F4", "A3", "C4", "F4", "E3", "F3", "A3", "C4", "F4", "A3", "C4", "F4", "D3", "F3", "A3", "C4", "F4", "A3", "C4", "F4", "D3", "F3", "A3", "C4", "F4", "A3", "C4", "F4", "G2", "D3", "G3", "B3", "F4", "G3", "B3", "F4", "G2", "D3", "G3", "B3", "F4", "G3", "B3", "F4", "C3", "E3", "G3", "C4", "E4", "G3", "C4", "E4", "C3", "E3", "G3", "C4", "E4", "G3", "C4", "E4", "C3", "G3", "A#3", "C4", "E4", "A#3", "C4", "E4", "C3", "G3", "A#3", "C4", "E4", "A#3", "C4", "E4", "F2", "F3", "A3", "C4", "E4", "A3", "C4", "E4", "F2", "F3", "A3", "C4", "E4", "A3", "C4", "E4", "F#2", "C3", "A3", "C4", "D#4", "A3", "C4", "D#4", "F#2", "C3", "A3", "C4", "D#4", "A3", "C4", "D#4", "G#2", "F3", "B3", "C4", "D4", "B3", "C4", "D4", "G#2", "F3", "B3", "C4", "D4", "B3", "C4", "D4", "G2", "F3", "G3", "B3", "D4", "G3", "B3", "D4", "G2", "F3", "G3", "B3", "D4", "G3", "B3", "D4", "G2", "E3", "G3", "C4", "E4", "G3", "C4", "E4", "G2", "E3", "G3", "C4", "E4", "G3", "C4", "E4", "G2", "D3", "G3", "C4", "F4", "G3", "C4", "F4", "G2", "D3", "G3", "C4", "F4", "G3", "C4", "F4", "G2", "D3", "G3", "B3", "F4", "G3", "B3", "F4", "G2", "D3", "G3", "B3", "F4", "G3", "B3", "F4", "G2", "D#3", "A3", "C4", "F#4", "A3", "C4", "F#4", "G2", "D#3", "A3", "C4", "F#4", "A3", "C4", "F#4", "G2", "E3", "G3", "C4", "G4", "G3", "C4", "G4", "G2", "E3", "G3", "C4", "G4", "G3", "C4", "G4", "G2", "D3", "G3", "C4", "F4", "G3", "C4", "F4", "G2", "D3", "G3", "C4", "F4", "G3", "C4", "F4", "G2", "D3", "G3", "B3", "F4", "G3", "B3", "F4", "G2", "D3", "G3", "B3", "F4", "G3", "B3", "F4", "C2", "C3", "G3", "A#3", "E4", "G3", "A#3", "E4", "C2", "C3", "G3", "A#3", "E4", "G3", "A#3", "E4", "C2", "C3", "F3", "A3", "C4", "F4", "C4", "A3", "C4", "A3", "F3", "A3", "F3", "D3", "F3", "D3", "C2", "D3", "G4", "B4", "D5", "F5", "D5", "B4", "D5", "B4", "G4", "B4", "D4", "F4", "E4", "D4", "C2"};
-  ;
+  
 
   String[] notes2 = {"C", "E", "G", "C", "E", "G", "C", "E", "C", "E", "G", "C", "E", "G", "C", "E", "C", "D", "A", "D", "F", "A", "D", "F", "C", "D", "A", "D", "F", "A", "D", "F", "B", "D", "G", "D", "F", "G", "D", "F", "B", "D", "G", "D", "F", "G", "D", "F", "C", "E", "G", "C", "E", "G", "C", "E", "C", "E", "G", "C", "E", "G", "C", "E", "C", "E", "A", "E", "A", "A", "E", "A", "C", "E", "A", "E", "A", "A", "E", "A", "C", "D", "F#", "A", "D", "F#", "A", "D", "C", "D", "F#", "A", "D", "F#", "A", "D", "B", "D", "G", "D", "G", "G", "D", "G", "B", "D", "G", "D", "G", "G", "D", "G", "B", "C", "E", "G", "C", "E", "G", "C", "B", "C", "E", "G", "C", "E", "G", "C", "A", "C", "E", "G", "C", "E", "G", "C", "A", "C", "E", "G", "C", "E", "G", "C", "D", "A", "D", "F#", "C", "D", "F#", "C", "D", "A", "D", "F#", "C", "D", "F#", "C", "G", "B", "D", "G", "B", "D", "G", "B", "G", "B", "D", "G", "B", "D", "G", "B", "G", "A#", "E", "G", "C#", "E", "G", "C#", "G", "A#", "E", "G", "C#", "E", "G", "C#", "F", "A", "D", "A", "D", "D", "A", "D", "F", "A", "D", "A", "D", "D", "A", "D", "F", "G#", "D", "F", "B", "D", "F", "B", "F", "G#", "D", "F", "B", "D", "F", "B", "E", "G", "C", "G", "C", "C", "G", "C", "E", "G", "C", "G", "C", "C", "G", "C", "E", "F", "A", "C", "F", "A", "C", "F", "E", "F", "A", "C", "F", "A", "C", "F", "D", "F", "A", "C", "F", "A", "C", "F", "D", "F", "A", "C", "F", "A", "C", "F", "G", "D", "G", "B", "F", "G", "B", "F", "G", "D", "G", "B", "F", "G", "B", "F", "C", "E", "G", "C", "E", "G", "C", "E", "C", "E", "G", "C", "E", "G", "C", "E", "C", "G", "A#", "C", "E", "A#", "C", "E", "C", "G", "A#", "C", "E", "A#", "C", "E", "F", "F", "A", "C", "E", "A", "C", "E", "F", "F", "A", "C", "E", "A", "C", "E", "F#", "C", "A", "C", "D#", "A", "C", "D#", "F#", "C", "A", "C", "D#", "A", "C", "D#", "G#", "F", "B", "C", "D", "B", "C", "D", "G#", "F", "B", "C", "D", "B", "C", "D", "G", "F", "G", "B", "D", "G", "B", "D", "G", "F", "G", "B", "D", "G", "B", "D", "G", "E", "G", "C", "E", "G", "C", "E", "G", "E", "G", "C", "E", "G", "C", "E", "G", "D", "G", "C", "F", "G", "C", "F", "G", "D", "G", "C", "F", "G", "C", "F", "G", "D", "G", "B", "F", "G", "B", "F", "G", "D", "G", "B", "F", "G", "B", "F", "G", "D#", "A", "C", "F#", "A", "C", "F#", "G", "D#", "A", "C", "F#", "A", "C", "F#", "G", "E", "G", "C", "G", "G", "C", "G", "G", "E", "G", "C", "G", "G", "C", "G", "G", "D", "G", "C", "F", "G", "C", "F", "G", "D", "G", "C", "F", "G", "C", "F", "G", "D", "G", "B", "F", "G", "B", "F", "G", "D", "G", "B", "F", "G", "B", "F", "C", "C", "G", "A#", "E", "G", "A#", "E", "C", "C", "G", "A#", "E", "G", "A#", "E", "C", "C", "F", "A", "C", "F", "C", "A", "C", "A", "F", "A", "F", "D", "F", "D", "C", "D", "G", "B", "D", "F", "D", "B", "D", "B", "G", "B", "D", "F", "E", "D", "C"};
 
@@ -57,93 +57,88 @@ class rawData {
     1, 2, 3, 4, 5, 1, 2, 3, 1, 2, 3, 4, 5, 1, 2, 3, 
     0};
 
-  rawData() {
-  }
-}
-
-// Noten
-
-
-// Noten ohne Oktaven
-
-
-
-
-
-
-
-
-
-////////////////////////////
-// The Cuepoints, based on 
-// http://music.kimiko-piano.com/album/bach-well-tempered-clavier-book-1
-////////////////////////////
-
-
-
-
-
-////////////////////////////
-// Create an ArrayList of all the notes
-////////////////////////////
-
-/*
-ArrayList<Note> noteObjects;
- 
- void createNoteObjects() {
- noteObjects = new ArrayList<Note>();
- for (int i = 0; i < numbers2.length; i++) {
- noteObjects.add(new Note(i));
- }
- }
- 
- */
-
-////////////////////////////
-// Create a two-dimensional array of each
-// bar and fill each bar with 16 notes.
-////////////////////////////
-
-// Note[][] bars; 
-/*
-void barArrays() {
- 
- bars = new Note[numbers2.length/16][16];
- for (int y = 0; y < numbers2.length/16; y++) {
- for (int x = 0; x < 16; x++) {
- println(y*x);
- bars[y][x] = new Note(y*16+x);
- }
- }
- }
- */
-
-////////////////////////////
-// Initialize data
-// Call this function in setup()!
-////////////////////////////
-
-/* 
- void initData() {
- createNoteObjects();
- barArrays();
- }
- */
-
-////////////////////////////
-// Test data
-////////////////////////////
-
-/* 
- int pos = 0;
- 
- void keyPressed() {
- if (keyCode == DOWN) {
- for (int i = 0; i < 16; i++) {
- String temp = "BAR " + pos + " NOTE " + i + " = " +  bars[pos][i].tone;
- printArray(temp);
- }
- pos++;
- }
- }
- */
+  String[] chords = {"C", "Dm7", "G7", "C", "Am", "D7", "G", "Cmaj7", "Am7", "D7", "G", "A7b9", "Dm", "G7b9", "C", "Fmaj7", "Dm7", "G7", "C", "C7", "Fmaj7", "D7b9", "G7b9","G7","C/G","G7sus4","G7","Fis°","C","G7sus4","G7","C7","F/C","C"};
+        
+          rawData() {
+          }
+        }
+        
+        
+        
+        
+        
+        
+        
+        ////////////////////////////
+        // The Cuepoints, based on 
+        // http://music.kimiko-piano.com/album/bach-well-tempered-clavier-book-1
+        ////////////////////////////
+        
+        
+        
+        
+        
+        ////////////////////////////
+        // Create an ArrayList of all the notes
+        ////////////////////////////
+        
+        /*
+        ArrayList<Note> noteObjects;
+         
+         void createNoteObjects() {
+         noteObjects = new ArrayList<Note>();
+         for (int i = 0; i < numbers2.length; i++) {
+         noteObjects.add(new Note(i));
+         }
+         }
+         
+         */
+        
+        ////////////////////////////
+        // Create a two-dimensional array of each
+        // bar and fill each bar with 16 notes.
+        ////////////////////////////
+        
+        // Note[][] bars; 
+        /*
+        void barArrays() {
+         
+         bars = new Note[numbers2.length/16][16];
+         for (int y = 0; y < numbers2.length/16; y++) {
+         for (int x = 0; x < 16; x++) {
+         println(y*x);
+         bars[y][x] = new Note(y*16+x);
+         }
+         }
+         }
+         */
+        
+        ////////////////////////////
+        // Initialize data
+        // Call this function in setup()!
+        ////////////////////////////
+        
+        /* 
+         void initData() {
+         createNoteObjects();
+         barArrays();
+         }
+         */
+        
+        ////////////////////////////
+        // Test data
+        ////////////////////////////
+        
+        /* 
+         int pos = 0;
+         
+         void keyPressed() {
+         if (keyCode == DOWN) {
+         for (int i = 0; i < 16; i++) {
+         String temp = "BAR " + pos + " NOTE " + i + " = " +  bars[pos][i].tone;
+         printArray(temp);
+         }
+         pos++;
+         }
+         }
+         */

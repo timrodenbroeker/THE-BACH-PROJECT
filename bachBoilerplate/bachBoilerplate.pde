@@ -7,14 +7,13 @@ rawData Data;
 
 ArrayList<Bar> Prelude;
 
-
 void setup() {
   size(540, 540);
 
   // Create the data
   Data = new rawData();
   
-  // Create the major array
+  // Create the array
   Prelude = new ArrayList<Bar>();
   
   for (int y = 0; y < 34; y++) {
@@ -34,5 +33,7 @@ void setup() {
 }
 
 void draw() {
+  
+  
   
 }

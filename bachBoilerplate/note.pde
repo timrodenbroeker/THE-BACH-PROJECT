@@ -11,10 +11,10 @@ class Note {
   int arpStep;
 
   Note(int position) {
-    pitch = Data.numbers1[position];
-    pitchCompressed = Data.numbers2[position];
-    tone = Data.notes1[position];
-    toneCompressed = Data.notes2[position];
+    pitch = Data.pitchValues[position];
+    pitchCompressed = Data.pitchValuesCompressed[position];
+    tone = Data.notes[position];
+    toneCompressed = Data.notesCompressed[position];
     cuePoint = Data.cuepoints[position];
     arpStep = Data.arp[position];
   }

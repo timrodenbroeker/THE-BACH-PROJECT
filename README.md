@@ -7,13 +7,13 @@ In summer 2017 i've started a self-initiated art-project to explore the creative
 
 So why that piece? Because it has a few characteristics that qualify it to be the perfect material for generative visualizations:
 
-• It is monophonic, so there are no notes overlapping
-• It is played only on one instrument (keyboard)
-• It follows a minimal, consistent rhythmical pattern, that does not allow any variation: 1 2 3 4 5 1 2 3  
-• Basically it is a plain sequence of 34 bars with 16 16th-notes each
-• each bar represents a chord
-• It has an array-like structure by nature
-• The chord-progression is interesting but quite simple
+- It is monophonic, so there are no notes overlapping
+- It is played only on one instrument (keyboard)
+- It follows a minimal, consistent rhythmical pattern, that does not allow any variation: 1 2 3 4 5 1 2 3  
+- Basically it is a plain sequence of 34 bars with 16 16th-notes each
+- each bar represents a chord
+- It has an array-like structure by nature
+- The chord-progression is interesting but quite simple
 
 ---
 

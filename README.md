@@ -1,6 +1,8 @@
 # THE BACH PROJECT
 The prelude of BWV846, ready to use in Processing.
 
+![the bach project](floppy.jpg "the bach project")
+
 ## Summary ##
 
 In summer 2017 i've started a self-initiated art-project to explore the creative potencial of musical data: THE BACH-PROJECT. The idea is very simple: I use the sheet-music of the "Prelude in C" (BWV846) by Johann Sebastian to create generative music visualizations.
@@ -21,13 +23,12 @@ While studying Graphic Design and music visualization i've found out that the "P
 
 ## content ##
 
-This repository contains the optimized data that can simply be used to create interesting visualizations. Do you have any ideas how the data can be optimized? Please let me know by opening an issue or by writing a mail to post@timrodenbroeker.de
+This repository contains optimized data that can be used to create music-visualizations from the "Prelude in C". Do you have any ideas for changes? Please let me know by opening an issue or by writing a mail to post@timrodenbroeker.de
 
-I am very curious in what you make with the data. Please let me know how you use it!
+Of course i am very curious about what you make with the data. Please let me know how you use it!
 
-Thank you!
+Thank you,
+
+enjoy!
 
 Tim
-
-
-![the bach project](floppy.jpg "the bach project")

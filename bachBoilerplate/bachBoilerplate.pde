@@ -12,13 +12,12 @@ void setup() {
   // Create the data
   Data = new preludeInC();
 
-  // Create the array
+  // Create the main array
   bars = new ArrayList<Bar>();
 
   for (int y = 0; y < 34; y++) {
 
-      // Add 34 bars
-
+      // Add 34 bars to the main array
       bars.add(new Bar(y));
 
     // Add 16 notes to each bar

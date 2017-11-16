@@ -1,14 +1,6 @@
 /* Data-Conversion
 ------------------------------------------ */
 
-// Initialize the data
-preludeInC Data;
-
-ArrayList<Bar> bars;
-
-// Create the data
-Data = new preludeInC();
-
 void createBarObjects(){
 
     // Create the main array
